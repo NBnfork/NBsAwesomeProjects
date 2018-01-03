@@ -1,7 +1,6 @@
 /***************************************************************************
  * Program: Fantasy Combat Tournament
  * Author: Noah Buchen
- * Date: 19 November 2017
  * Description: This program is a tournament style battle between teams of
  * fantasy players. After setting up the tournament the results from each
  * battle will print as well as the overall winner of the tournament.
